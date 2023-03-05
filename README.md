@@ -6,7 +6,7 @@ This project is organized into several folders:
 
 Src: Contains the Jupyter notebook file that includes the code used for the analysis.<br/>
 Data: Contains the csv files used for the analysis.<br/>
-Docs: Contains the readme files summarizing the findings from the analysis.<br/>
+Docs: Contains the readme file summarizing the findings from the analysis.<br/>
 Results: Contains the statistics and the plots generated along with the explantions.<br/>
 
 ## Hypotheses <br/>
